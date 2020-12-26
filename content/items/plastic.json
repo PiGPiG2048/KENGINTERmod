@@ -1,0 +1,11 @@
+{
+	"type": "material",
+	"name": "Plastic",
+	"description": "A very useful material.",
+	"color": "#E9EAF1",
+	"cost": 1.5,
+	"hardness": 2,
+	"research": {
+		"parent": "oil",
+	}
+}

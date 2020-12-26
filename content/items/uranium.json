@@ -1,0 +1,15 @@
+{
+	"type": "material",
+	"name": "[#276722]Uranium",
+	"description": "Nuclear Energy",
+	"color": "#276722",
+	"cost": 2,
+	"hardness": 3,
+	"radioactivity": 35.0,
+	"reseach": {
+		"parent": "thorium",
+		"requirements": [
+			{"item": "thorium", "amount": 20},
+		],
+	},
+}

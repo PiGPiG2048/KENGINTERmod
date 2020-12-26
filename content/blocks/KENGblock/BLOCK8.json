@@ -1,0 +1,34 @@
+{
+	"type": "GeneicSmelter",
+	"name": "KENG-SurgeAlloy",
+	"description": "Electricity",
+	"health": 1000,
+	"size": 3,
+	"craftTime": 5,
+	"hasItems": true,
+	"hasPower": true,
+	"hasLiquids": false,
+	"itemCapacity": 100,
+	"comsumes": {
+		"power": 2.0,
+		"items": {
+			"items": [
+				{"item": "titanium", "amount": 10},
+				{"item": "silicon", "amount": 10},
+			],
+		},
+	},
+	"outputItem": {"item": "surge-alloy", "amount": 20},
+	"requirements": [
+		{"item": "graphite", "amount": 1000},
+		{"item": "silicon", "amount": 750},
+		{"item": "iron", "amount": 500},
+	],
+	"updateEffect": "smeltsmoke",
+	
+	"reseach": "BLOCK6",
+	"category": "crafting",
+	"loopSound": "hum",
+	"loopSoundVolume": 0.5,
+	"floating": true,
+}

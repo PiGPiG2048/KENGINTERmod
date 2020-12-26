@@ -1,0 +1,33 @@
+{
+	"type": "GeneicSmelter",
+	"name": "KENG-Pyratite",
+	"description": "bangbangbang",
+	"health": 1000,
+	"size": 3,
+	"craftTime": 2,
+	"hasItems": true,
+	"hasPower": true,
+	"hasLiquids": false,
+	"itemCapacity": 100,
+	"comsumes": {
+		"power": 3.0,
+		"items": {
+			"items": [
+				{"item": "sand", "amount": 10},
+				{"item": "coal", "amount": 10},
+			],
+		},
+	},
+	"outputItem": {"item": "pyratite", "amount": 20},
+	"requirements": [
+		{"item": "graphite", "amount": 1000},
+		{"item": "iron", "amount": 500},
+		{"item": "silicon", "amount": 750},
+	],
+	"updateEffect": "smeltsmoke",
+	"reseach": "BLOCK2",
+	"category": "crafting",
+	"loopSound": "bang",
+	"loopSoundVolume": 0.5,
+	"floating": true,
+}

@@ -1,0 +1,15 @@
+{
+	"type": "material",
+	"name": "[#2D0303]Californium",
+	"description": "A radioactive element",
+	"color": "#2D0303",
+	"cost": 4,
+	"hardness": 2,
+	"radioactivity": 0.505,
+	"reseach": {
+		"parent": "uranium",
+		"requirements": [
+			{"item": "uranium", "amount": 1000},
+		],
+	},
+}

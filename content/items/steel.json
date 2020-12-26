@@ -1,0 +1,15 @@
+{
+	"type": "material",
+	"name": "steel",
+	"description": "coal and iron",
+	"color": "#050505",
+	"cost": 1,
+	"hardness": 3,
+	"research": {
+		"parent": "iron",
+		"requirments": [
+			{"item": "coal", "amount": 100},
+			{"item": "iron", "amount": 50},
+		],
+	},
+}
