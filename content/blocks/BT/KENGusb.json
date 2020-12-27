@@ -3,8 +3,8 @@
 	"name": "KENGusb",
 	"description": "A usb.Please use caution.",
 	"health": 10000000000,
-	"size": 1
-	"reloadTime": 1,
+	"size": 1,
+	"reload": 1,
 	"range": 10000,
 	"shots": 100,
 	"inaccuracy": 0.1,
