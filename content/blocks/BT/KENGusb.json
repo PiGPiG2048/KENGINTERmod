@@ -101,7 +101,8 @@
 		},
 	"requirements": [
 		{"item": "HELLOWORLD", "amount": 1000},
-		{"item": "[98]Cf-252", "amount": 100},
+		{"item": "[98]Cf-252", "amount": 1000},
+		{"item": "copper", "amount": 100000}
 	"reseach": "duo",
 	},
 }
