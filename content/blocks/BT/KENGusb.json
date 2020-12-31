@@ -5,6 +5,7 @@
 	"health": 10000000000,
 	"size": 1
 	"reloadTime": 1,
+	"rotareSpeed": 1,
 	"range": 10000,
 	"shots": 100,
 	"inaccuracy": 0.1,
@@ -106,5 +107,6 @@
 		{"item": "copper", "amount": 10000},
 	],
 	"reseach": "duo",
+	"category: "turret",
 	"floating": true,
 }
