@@ -3,8 +3,8 @@
 	"name": "KENGusb",
 	"description": "A usb.Please use caution.",
 	"health": 10000000000,
-	"size": 1,
-	"reload": 1,
+	"size": 1
+	"reloadTime": 1,
 	"range": 10000,
 	"shots": 100,
 	"inaccuracy": 0.1,
@@ -100,9 +100,10 @@
 			"smokeEffect": "shootSmallEffect",
 		},
 	"requirements": [
-		{"item": "HELLOWORLD", "amount": 1000},
-		{"item": "[98]Cf-252", "amount": 1000},
-		{"item": "copper", "amount": 100000},
+		{"item": "HELLOWORLD", "amount": 100},
+		{"item": "[98]Cf-252", "amount": 100},
+		{"item": "copper", "amount": 10000},
+	],
 	"reseach": "duo",
 	},
 }
