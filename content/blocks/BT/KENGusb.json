@@ -106,7 +106,7 @@
 		{"item": "[98]Cf-252", "amount": 100},
 		{"item": "copper", "amount": 10000},
 	],
-	"reseach": "duo",
 	"category: "turret",
+	"reseach": "duo",
 	"floating": true,
 }
