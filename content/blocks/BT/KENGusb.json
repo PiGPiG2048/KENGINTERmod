@@ -107,6 +107,6 @@
 		{"item": "copper", "amount": 10000},
 	],
 	"reseach": "duo",
-	"category: "",
+	"category: "turret",
 	"floating": true,
 }
