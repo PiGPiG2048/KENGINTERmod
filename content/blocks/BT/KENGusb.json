@@ -104,7 +104,7 @@
 		{"item": "HELLOWORLD", "amount": 100},
 		{"item": "[98]Cf-252", "amount": 100},
 		{"item": "copper", "amount": 10000},
-		{"item": "surge-alloy", "amount": 1000},
 	],
 	"reseach": "duo",
+	"floating": true,
 }
