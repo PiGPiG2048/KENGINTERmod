@@ -5,10 +5,11 @@
 	"health": 10000000000,
 	"size": 1
 	"reloadTime": 1,
-	"rotareSpeed": 1,
+	"ratateSpeed": 100,
 	"range": 10000,
 	"shots": 100,
 	"inaccuracy": 0.1,
+	"ammoUseEffect": "shootBig2",
 	"ammoTypes": {
 		"copper": {
 			"width": 1000,
@@ -105,8 +106,9 @@
 		{"item": "HELLOWORLD", "amount": 100},
 		{"item": "[98]Cf-252", "amount": 100},
 		{"item": "copper", "amount": 10000},
+		{"item": "surge-alloy", "amount": 1000},
 	],
-	"category: "turret",
+	"category": "turret",
 	"reseach": "duo",
 	"floating": true,
 }
