@@ -7,9 +7,9 @@
 	"hardness": 2,
 	"radioactivity": 0.505,
 	"reseach": {
-		"parent": "uranium",
+		"parent": "U238",
 		"requirements": [
-			{"item": "uranium", "amount": 1000},
+			{"item": "U238", "amount": 1000},
 		],
 	},
 }
