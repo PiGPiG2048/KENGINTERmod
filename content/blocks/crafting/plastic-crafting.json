@@ -1,0 +1,32 @@
+{
+	"type": "GeneicSmelter",
+	"name": "Oil refiners",
+	"description": "Plastics from oil",
+	"health": 700,
+	"size": 2,
+	"craftTime": 2.5,
+	"hasItems": false,
+	"hasLiquids": true,
+	"hasPower": true,
+	"itemCapacity": 10,
+	"comsumes": {
+		"power": 1.5,
+		"liquids": {
+			"liquids": [
+				{"liquid": "oil", "amount": 1.5},
+			],
+		},
+	},
+	"outputItem": {"item": "plastic", "amount": 1},
+	"requirements": [
+		{"item": "copper", "amount": 100},
+		{"item": "silicon", "amount": 75},
+		{"item": "lead", "amount": 75},
+		{"item": "steel", "amount": 50},
+	],
+	"updateEffect": "smeltsmoke",
+	"reseach": "spore-press",
+	"category": "crafting",
+	"loopSoundVolume": 0.7,
+	"floating": true,
+}
