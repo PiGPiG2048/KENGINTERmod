@@ -7,20 +7,20 @@ TEST
 >
 > ### keng0001-test
 >
-> Test yourself
+> * Test yourself
 >
 > ### keng0002-test
 >
-> Publish
+> * Publish
 >
 > ### keng0003—-test
 >
-> delete MINER1.json(bug)
+> * delete MINER1.json(bug)
 >
-> Changes to mod.json
+> * Changes to mod.json
 >
-> new turret,KENGusb.json
+> * new turret,KENGusb.json
 >
 > ### keng0004-test
 >
-> sprites and the other somethings
+> * sprites and the other somethings
