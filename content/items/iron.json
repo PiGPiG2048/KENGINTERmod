@@ -1,14 +1,8 @@
 {
-	"type": "material",
+	"type": "item",
 	"name": "iron",
-	"description": "A hard material",
-	"color": "#191919",
+	"description": "",
+	"color": "#989AA4",
 	"cost": 0.5,
-	"hardness": 2,
-	"research": {
-		"parent": "copper",
-		"requirements": [
-			{"item": "copper", "amount": 20},
-		],
-	},
+	"hardness": 1,
 }

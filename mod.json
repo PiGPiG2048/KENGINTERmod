@@ -1,8 +1,7 @@
 {
-	"name": "[#104EE0]KENGINTER",
-	"author": "[pink]PiGPiG2048",
-	"description": "KENGINTERPROJECTCRAFT.There are many things.W E L C O M E T O M I N D U S T R Y!                                  update [yellow]new blocks[white].",
-	"version": "KENG0005-TEST",
+	"name": "[#84B9E4]KENGINTER-WORLD",
+	"author": "[#FF60FF]PiGPiG2048",
+	"description": "Welcome to [#84B9E4]KENGINTERWORLD.[white]There are lots of materials,[#646464]ores,[#AE861E]machines,[#F5C639]turrets,[#505050]transport and [#2aae50]units,[white]now in testing.",
+	"version": "KENG01-testNEW",
 	"minGameVersion": "106",
-	"hidden": false,
 }
