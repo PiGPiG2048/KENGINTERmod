@@ -34,4 +34,5 @@ TEST
 >> soon
 # A new era has arrived
 >> ### KENG01
+>> ### delete all files
 >> new world
