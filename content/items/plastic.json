@@ -1,8 +1,0 @@
-{
-	"type": "item",
-	"name": "plastic",
-	"description": "",
-	"color": "#FFFFFF",
-	"cost": 0.3,
-	"research": "oil",
-}
